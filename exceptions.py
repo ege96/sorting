@@ -1,0 +1,2 @@
+class BadSortingAlgorithmError(Exception):
+    pass
